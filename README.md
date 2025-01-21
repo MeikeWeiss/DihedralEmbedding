@@ -21,7 +21,7 @@ The repository includes implementations of the algorithms and methods described 
 Examples of generated triangulations and their corresponding polyhedral realizations.
 
 ### 3. Data
-Precomputed graphs and polyhedra for specific cases discussed in the paper.
+Precomputed graphs and polyhedra for specific cases discussed in the paper. STL files for 3D printing.
 
 ---
 
